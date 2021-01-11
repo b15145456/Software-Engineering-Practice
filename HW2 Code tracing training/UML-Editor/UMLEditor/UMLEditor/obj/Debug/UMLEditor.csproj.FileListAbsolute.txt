@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\軟體工程實務\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\bin\Debug\UML Editor.exe.config
+C:\Users\user\Desktop\軟體工程實務\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\bin\Debug\UML Editor.exe
+C:\Users\user\Desktop\軟體工程實務\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\bin\Debug\UML Editor.pdb
+C:\Users\user\Desktop\軟體工程實務\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\軟體工程實務\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\軟體工程實務\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\軟體工程實務\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csprojAssemblyReference.cache
+C:\Users\user\Desktop\軟體工程實務\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.UMLEditorForm.resources
+C:\Users\user\Desktop\軟體工程實務\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.Properties.Resources.resources
+C:\Users\user\Desktop\軟體工程實務\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.Views.Dialogs.RenameDialog.resources
+C:\Users\user\Desktop\軟體工程實務\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.GenerateResource.cache
+C:\Users\user\Desktop\軟體工程實務\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\軟體工程實務\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.CopyComplete
+C:\Users\user\Desktop\軟體工程實務\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UML Editor.exe
+C:\Users\user\Desktop\軟體工程實務\Week1\HW2 Code tracing training\UML-Editor\UMLEditor\UMLEditor\obj\Debug\UML Editor.pdb
